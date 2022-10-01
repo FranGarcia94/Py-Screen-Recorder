@@ -1,7 +1,7 @@
 # Py Screen Recorder
 
 [![Python_version](https://img.shields.io/badge/Python-v3.10.2-blueviolet?style=flat&logo=python&logoColor=white)](https://www.python.org/downloads/release/python-3102/)
-![License](https://custom-icon-badges.herokuapp.com/github/license/FranGarcia94/PaintingPy?logo=law)
+![License](https://custom-icon-badges.herokuapp.com/github/license/FranGarcia94/Py-Screen-Recorder?logo=law)
 ![Size](https://badge-size.herokuapp.com/FranGarcia94/Py-Screen-Recorder/main/pyscreenrecorder.py)
 
 <p align = "center">
