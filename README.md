@@ -5,7 +5,7 @@
 ![Size](https://badge-size.herokuapp.com/FranGarcia94/Py-Screen-Recorder/main/pyscreenrecorder.py)
 
 <p align = "center">
-<a href="https://www.flaticon.es"><img src="https://user-images.githubusercontent.com/107102754/192119971-d6afc9fe-afec-4c4d-9f89-bd7116b50f2b.jpg"/></a>
+<a href="https://github.com/FranGarcia94/Py-Screen-Recorder"><img src="https://user-images.githubusercontent.com/107102754/192119971-d6afc9fe-afec-4c4d-9f89-bd7116b50f2b.jpg"/></a>
 </p>
 <p align = "center">
 <b>Screen Recorder</b>
